@@ -17,23 +17,23 @@ Simulador de banco desenvolvido em Java, utilizando JPA para persistência de da
 
 ## 📁 Estrutura do Projeto
 
-BankSimulator/ 
-├── .idea/ # Configurações do projeto (IDE) 
-├── src/ 
-│ └── main/ 
-│ ├── java/ 
-│ │ └── com/exemplo/banco/ 
-│ │ ├── Main.java 
-│ │ ├── entity/ 
-│ │ │ ├── Conta.java 
-│ │ │ └── Transacao.java 
-│ │ ├── repository/ 
-│ │ │ ├── ContaRepository.java 
-│ │ │ └── TransacaoRepository.java 
-│ │ └── service/ 
-│ │ └── BancoService.java 
-│ └── resources/ 
-│ └── META-INF/persistence.xml 
+BankSimulator/ <br>
+├── .idea/ # Configurações do projeto (IDE) <br>
+├── src/ <br>
+│ └── main/ <br>
+│ ├── java/ <br>
+│ │ └── com/exemplo/banco/ <br>
+│ │ ├── Main.java <br>
+│ │ ├── entity/ <br>
+│ │ │ ├── Conta.java <br>
+│ │ │ └── Transacao.java <br>
+│ │ ├── repository/ <br>
+│ │ │ ├── ContaRepository.java <br>
+│ │ │ └── TransacaoRepository.java <br>
+│ │ └── service/ <br>
+│ │ └── BancoService.java <br>
+│ └── resources/ <br>
+│ └── META-INF/persistence.xml <br>
 ├── pom.xml
 
 ---
@@ -50,7 +50,7 @@ BankSimulator/
 
 ## ✅ Status
 
-✅Entidades implementadas
-✅Repositórios JPA criados
-✅Lógica de transferência e extrato
+✅Entidades implementadas <br>
+✅Repositórios JPA criados<br>
+✅Lógica de transferência e extrato<br>
 ❌Interface gráfica com JavaFX (em desenvolvimento)
